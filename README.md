@@ -39,7 +39,7 @@ with an ASP.NET Core REST API backend and a Flutter mobile frontend.
 
 ## 📥 Download
 
-[⬇️ Download APK](./ShopX.apk)
+[⬇️ Download APK](https://github.com/YousefAbuHzian/Ecommerce-App/releases/tag/v1.0.0)
 
 ---
 
