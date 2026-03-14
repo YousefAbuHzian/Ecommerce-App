@@ -9,7 +9,7 @@ with an ASP.NET Core REST API backend and a Flutter mobile frontend.
 
 <p align="center">
   <img src="screenshots/onBoarding.jpg" width="180"/>
-  <img src="screenshots/Login.jpg" width="180"/>
+  <img src="screenshots/login.jpg" width="180"/>
   <img src="screenshots/home_en.jpg" width="180"/>
   <img src="screenshots/home_ar.jpg" width="180"/>
   <img src="screenshots/item_details.jpg" width="180"/>
